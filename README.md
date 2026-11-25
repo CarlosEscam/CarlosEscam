@@ -6,30 +6,30 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 
 🔭 Abierto a prácticas, empleo y proyectos.
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-carlosescam.github.io-3A63D8?style=flat-square)](https://carlosescam.github.io)
+[![Portafolio](https://img.shields.io/badge/Portafolio-carlosescamilla.me-3A63D8?style=flat-square)](https://carlosescamilla.me)
 [![Email](https://img.shields.io/badge/Email-carlosescamilla2023%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosescamilla2023@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--escamilla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-escamilla-936309290/)
-[![CV](https://img.shields.io/badge/CV-PDF-7C5CE0?style=flat-square&logo=readthedocs&logoColor=white)](https://carlosescam.github.io/cv/CV-Carlos-Escamilla.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-7C5CE0?style=flat-square&logo=readthedocs&logoColor=white)](https://carlosescamilla.me/cv/CV-Carlos-Escamilla.pdf)
 
 ---
 
 ## 🌐 Mi portafolio
 
 <p align="center">
-  <a href="https://carlosescam.github.io"><img src="assets/portafolio.png" alt="Portafolio de Carlos Escamilla en escritorio y celular" width="100%" /></a>
+  <a href="https://carlosescamilla.me"><img src="assets/portafolio.png" alt="Portafolio de Carlos Escamilla en escritorio y celular" width="100%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://carlosescam.github.io"><img src="https://img.shields.io/badge/Visitar_portafolio-carlosescam.github.io-F0A43A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://carlosescam.github.io/cv/CV-Carlos-Escamilla.pdf"><img src="https://img.shields.io/badge/Descargar_CV-PDF-7C5CE0?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://carlosescamilla.me"><img src="https://img.shields.io/badge/Visitar_portafolio-carlosescamilla.me-F0A43A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://carlosescamilla.me/cv/CV-Carlos-Escamilla.pdf"><img src="https://img.shields.io/badge/Descargar_CV-PDF-7C5CE0?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 </p>
 
 <p align="center"><sub>HTML, CSS y JavaScript sin frameworks · el fondo es una simulación de N-cuerpos en vivo · capturas reales de cada proyecto</sub></p>
 
 <table>
   <tr>
-    <td width="50%"><a href="https://carlosescam.github.io/#proyectos"><img src="assets/proyectos.png" alt="Sección de proyectos" /></a></td>
-    <td width="50%"><a href="https://carlosescam.github.io/#trayectoria"><img src="assets/trayectoria.png" alt="Sección de trayectoria" /></a></td>
+    <td width="50%"><a href="https://carlosescamilla.me/#proyectos"><img src="assets/proyectos.png" alt="Sección de proyectos" /></a></td>
+    <td width="50%"><a href="https://carlosescamilla.me/#trayectoria"><img src="assets/trayectoria.png" alt="Sección de trayectoria" /></a></td>
   </tr>
   <tr>
     <td align="center"><sub>Proyectos con stack, estado y enlace al código</sub></td>
