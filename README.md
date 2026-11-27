@@ -4,7 +4,7 @@
 
 **Desarrollador Full-Stack · Backend · Plataformas educativas · Computación paralela** — Cúcuta, Colombia
 
-Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona) y técnico en sistemas del SENA. Construyo plataformas completas de punta a punta: base de datos, API, interfaz, pruebas e integración continua. La mayoría de lo que hago sirve para enseñar, y en mi tesis paralelizo la simulación de N-cuerpos con OpenMP, MPI y OpenCL.
+Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona) y técnico en sistemas del SENA (2.208 h). Construyo plataformas completas de punta a punta: base de datos, API, interfaz, pruebas e integración continua. La mayoría de lo que hago sirve para enseñar, y en mi tesis paralelizo la simulación de N-cuerpos con OpenMP, MPI y OpenCL.
 
 🔭 Abierto a prácticas, empleo y proyectos.
 
@@ -64,6 +64,19 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
   <img src="https://streak-stats.demolab.com?user=CarlosEscam&locale=es&background=0E1530&ring=F0A43A&fire=F0A43A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0A43A&sideLabels=D7DCEF&dates=8E97BC&stroke=2E3B80&hide_border=true" alt="Racha de contribuciones" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEscam&layout=compact&langs_count=8&custom_title=Lenguajes%20m%C3%A1s%20usados&bg_color=0E1530&title_color=F0A43A&text_color=D7DCEF&hide_border=true" alt="Lenguajes más usados" height="170" />
 </p>
+
+## 🎓 Formación y certificados
+
+| Formación | Institución | Año |
+| --- | --- | --- |
+| **Ingeniería de Sistemas** (9.º semestre, en curso) | Universidad de Pamplona | — |
+| **Técnico en Sistemas** · 2.208 h | SENA | 2021 |
+| Fortalecimiento en razonamiento cuantitativo para articulación con la media · 57 h | SENA | 2026 |
+| Diseñar circuitos electrónicos aplicados en ambientes rurales · 48 h | SENA | 2021 |
+| Programar sensores y actuadores en la ruralidad · 48 h | SENA | 2021 |
+| English Dot Works 1, 2, 3 y 4 · 240 h | SENA | 2020–2021 |
+
+<sub>Los certificados del SENA se pueden verificar en [certificados.sena.edu.co](https://certificados.sena.edu.co).</sub>
 
 ## 🗂️ Actualmente trabajando en...
 
