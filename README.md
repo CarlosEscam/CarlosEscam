@@ -71,6 +71,8 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 | --- | --- | --- |
 | **Ingeniería de Sistemas** (9.º semestre, en curso) | Universidad de Pamplona | — |
 | **Técnico en Sistemas** · 2.208 h | SENA | 2021 |
+| Ciberseguridad · 50 h (Generación TIC) | MinTIC y Universidad Distrital | 2024 |
+| Taller de Ética Profesional, en representación de la Universidad de Pamplona | ACOFI | 2026 |
 | Fortalecimiento en razonamiento cuantitativo para articulación con la media · 57 h | SENA | 2026 |
 | Diseñar circuitos electrónicos aplicados en ambientes rurales · 48 h | SENA | 2021 |
 | Programar sensores y actuadores en la ruralidad · 48 h | SENA | 2021 |
