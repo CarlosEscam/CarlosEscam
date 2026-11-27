@@ -1,3 +1,5 @@
+<p align="center"><a href="https://carlosescamilla.me"><img src="assets/banner.webp" alt="Carlos Escamilla — Desarrollador Full-Stack y computación paralela" width="100%" /></a></p>
+
 # Hola, soy Carlos Escamilla 👋
 
 **Desarrollador Full-Stack · Backend · Plataformas educativas · Computación paralela** — Cúcuta, Colombia
@@ -10,6 +12,7 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 [![Email](https://img.shields.io/badge/Email-carlosescamilla2023%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosescamilla2023@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--escamilla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-escamilla-936309290/)
 [![CV](https://img.shields.io/badge/CV-PDF-7C5CE0?style=flat-square&logo=readthedocs&logoColor=white)](https://carlosescamilla.me/cv/CV-Carlos-Escamilla.pdf)
+[![Seguidores](https://img.shields.io/github/followers/CarlosEscam?label=Seguidores&style=flat-square&logo=github&color=181717)](https://github.com/CarlosEscam?tab=followers)
 
 ---
 
@@ -54,6 +57,13 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,fastapi,spring,nodejs,express,react,nextjs,vite,tailwind,postgres,sqlite,prisma,docker,githubactions,git,nginx,arduino&perline=11&theme=dark" />
+</p>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarlosEscam&locale=es&background=0E1530&ring=F0A43A&fire=F0A43A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0A43A&sideLabels=D7DCEF&dates=8E97BC&stroke=2E3B80&hide_border=true" alt="Racha de contribuciones" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEscam&layout=compact&langs_count=8&custom_title=Lenguajes%20m%C3%A1s%20usados&bg_color=0E1530&title_color=F0A43A&text_color=D7DCEF&hide_border=true" alt="Lenguajes más usados" height="170" />
 </p>
 
 ## 🗂️ Actualmente trabajando en...
