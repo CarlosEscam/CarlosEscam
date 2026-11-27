@@ -8,11 +8,10 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 
 🔭 Abierto a prácticas, empleo y proyectos.
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-carlosescamilla.me-3A63D8?style=flat-square)](https://carlosescamilla.me)
-[![Email](https://img.shields.io/badge/Email-carlosescamilla2023%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosescamilla2023@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--escamilla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-escamilla-936309290/)
-[![CV](https://img.shields.io/badge/CV-PDF-7C5CE0?style=flat-square&logo=readthedocs&logoColor=white)](https://carlosescamilla.me/cv/CV-Carlos-Escamilla.pdf)
-[![Seguidores](https://img.shields.io/github/followers/CarlosEscam?label=Seguidores&style=flat-square&logo=github&color=181717)](https://github.com/CarlosEscam?tab=followers)
+[![Portafolio](assets/badges/portafolio.svg)](https://carlosescamilla.me)
+[![Email](assets/badges/email.svg)](mailto:carlosescamilla2023@gmail.com)
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/carlos-escamilla-936309290/)
+[![CV](assets/badges/cv.svg)](https://carlosescamilla.me/cv/CV-Carlos-Escamilla.pdf)
 
 ---
 
@@ -23,8 +22,8 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 </p>
 
 <p align="center">
-  <a href="https://carlosescamilla.me"><img src="https://img.shields.io/badge/Visitar_portafolio-carlosescamilla.me-F0A43A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://carlosescamilla.me/cv/CV-Carlos-Escamilla.pdf"><img src="https://img.shields.io/badge/Descargar_CV-PDF-7C5CE0?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://carlosescamilla.me"><img src="assets/badges/visitar-portafolio.svg" alt="Visitar portafolio" /></a>
+  <a href="https://carlosescamilla.me/cv/CV-Carlos-Escamilla.pdf"><img src="assets/badges/descargar-cv.svg" alt="Descargar CV" /></a>
 </p>
 
 <p align="center"><sub>HTML, CSS y JavaScript sin frameworks · el fondo es una simulación de N-cuerpos en vivo · capturas reales de cada proyecto</sub></p>
