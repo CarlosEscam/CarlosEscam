@@ -10,7 +10,7 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 
 [![Portafolio](assets/badges/portafolio.svg)](https://carlosescamilla.me)
 [![Email](assets/badges/email.svg)](mailto:carlosescamilla2023@gmail.com)
-[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/carlos-escamilla-936309290/)
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/carlosescamilla-dev/)
 [![CV](assets/badges/cv.svg)](https://carlosescamilla.me/cv/CV-Carlos-Escamilla.pdf)
 
 ---
@@ -35,7 +35,7 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
   </tr>
   <tr>
     <td align="center"><sub>Proyectos con stack, estado y enlace al código</sub></td>
-    <td align="center"><sub>Experiencia y formación</sub></td>
+    <td align="center"><sub>Formación, certificados y proyectos</sub></td>
   </tr>
 </table>
 
@@ -88,4 +88,4 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 
 ## 📫 Contacto
 
-¿Tienes un proyecto, una práctica o una vacante en backend, plataformas educativas o computación paralela? Escríbeme a **carlosescamilla2023@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/carlos-escamilla-936309290/).
+¿Tienes un proyecto, una práctica o una vacante en backend, plataformas educativas o computación paralela? Escríbeme a **carlosescamilla2023@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/carlosescamilla-dev/).
